@@ -2,3 +2,6 @@
 .eslintrc.js
 dist
 node_modules
+lib
+test
+rollup.config.js

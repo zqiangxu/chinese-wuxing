@@ -30,12 +30,13 @@
   },
   "homepage": "https://github.com/zqiangxu/chinese-wuxing#readme",
   "dependencies": {
+  },
+  "devDependencies": {
+    "@rollup/plugin-terser": "^0.4.1",
     "eslint": "^8.38.0",
     "eslint-config-prettier": "^8.8.0",
     "eslint-plugin-prettier": "^4.2.1",
-    "prettier": "^2.8.7"
-  },
-  "devDependencies": {
+    "prettier": "^2.8.7",
     "@rollup/plugin-commonjs": "^24.0.1",
     "@rollup/plugin-node-resolve": "^15.0.1",
     "@rollup/plugin-typescript": "^11.0.0",
