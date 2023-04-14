@@ -1,6 +1,6 @@
 {
   "name": "chinese-wuxing",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "中文五行",
   "main": "lib/index.js",
   "types": "lib/types/index.d.ts",
@@ -29,8 +29,7 @@
     "url": "https://github.com/zqiangxu/chinese-wuxing/issues"
   },
   "homepage": "https://github.com/zqiangxu/chinese-wuxing#readme",
-  "dependencies": {
-  },
+  "dependencies": {},
   "devDependencies": {
     "@rollup/plugin-terser": "^0.4.1",
     "eslint": "^8.38.0",
